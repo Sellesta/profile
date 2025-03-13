@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moses Wanjema</h1>
-<h3 align="center">A passionate Data Engineer from Kenya</h3>
+<h1 align="center">Hi, I'm Moses Wanjema 👋</h1>
+<h3 align="center">Originally from Kenya and now based in Berlin, I’m a full-stack developer with over 8 years of experience crafting scalable, innovative software solutions. I discovered my passion for coding at the age of 12 and have since dedicated myself to continuous learning and self-improvement.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sellesta&label=Profile%20views&color=0e75b6&style=flat" alt="sellesta" /> </p>
 
